@@ -1,0 +1,34 @@
+#inputfield{
+    border:2px solid gray;
+    border-radius: 10px;
+}
+.output-area-grams{
+    width:100%;
+    min-height:75px;
+    background: rgb(10, 228, 57);
+    border:2px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.output-area-pounds{
+    width:100%;
+    min-height:75px;
+    background: rgb(69, 15, 218);
+    border:2px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.output-area-miligrams{
+    width:100%;
+    min-height:75px;
+    background: rgb(20, 115, 179);
+    border:2px solid gray;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
